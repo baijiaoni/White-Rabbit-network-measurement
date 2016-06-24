@@ -1,0 +1,10 @@
+;XENAMODULE
+;FormatVersion: 2
+;Savedby: XenaManager-2G (v1.29)
+;Testbed: Default testbed
+;Chassis: New chassis (S.427, D.38)
+;ChassisSerial: 7711642
+;Module: 0
+;ModuleModel: M6SFP
+M_TIMESYNC  CHASSIS
+M_CLOCKPPB  0
