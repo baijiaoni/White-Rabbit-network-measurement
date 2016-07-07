@@ -1,0 +1,302 @@
+{
+  "ChassisManager": {
+    "ChassisList": [
+      {
+        "ChassisName": "New chassis",
+        "Address": {
+          "HostName": "140.181.139.228",
+          "PortNumber": 22606,
+          "Password": "xena"
+        },
+        "ChassisIsDisconnected": false,
+        "DisplayName": "Chassis 0 'New chassis' (140.181.139.228)",
+        "ResourceIndex": 0,
+        "ItemId": "e418f993-2ddb-425e-a764-0d9e33ef2657",
+        "ParentId": ""
+      }
+    ]
+  },
+  "TestBedHandler": {
+    "SelectedTestBedId": "fdb75331-e630-4453-a16f-ee2411956af7",
+    "EntityList": [
+      {
+        "Description": "",
+        "UsedPorts": [],
+        "PollAwaysPorts": [],
+        "ZeroRateCheckPorts": [],
+        "ShowOnlyUsedPorts": false,
+        "PortGridPropertySelector": {
+          "ShowReadOnlyProperties": true,
+          "DisabledGroups": [],
+          "DisabledProperties": []
+        },
+        "StreamGridPropertySelector": {
+          "ShowReadOnlyProperties": true,
+          "DisabledGroups": [],
+          "DisabledProperties": []
+        },
+        "UsePortTxTimeForDuration": false,
+        "LoggingDefinition": {
+          "EnableLogging": false,
+          "EnabledFields": {
+            "TxBps": true,
+            "TxFps": true,
+            "TxBytes": true,
+            "TxFrames": true,
+            "RxBps": true,
+            "RxFps": true,
+            "RxBytes": true,
+            "RxFrames": true,
+            "RxFcsErrors": true,
+            "RxSeqErr": true,
+            "RxMisErr": true,
+            "RxPldErr": true,
+            "RxBer": true,
+            "LatencyCurr": true,
+            "LatencyCurrMin": true,
+            "LatencyCurrMax": true,
+            "LatencyAvg": true,
+            "LatencyMin": true,
+            "LatencyMax": true,
+            "JitterCurr": true,
+            "JitterCurrMin": true,
+            "JitterCurrMax": true,
+            "JitterAvg": true,
+            "JitterMin": true,
+            "JitterMax": true
+          },
+          "LogScheduleSettings": {
+            "PollInterval": "00:00:01",
+            "LoggingPeriod": "01:00:00",
+            "RunUntilStopped": false,
+            "UseGlobalTrafficStartStop": false
+          },
+          "FileSettings": {
+            "LogFileType": "CSV",
+            "LogFileNamePrefix": "statslog",
+            "AppendTimestamp": true,
+            "SeparateRunDirs": true,
+            "UseRollOverFileSize": true,
+            "RollOverFileSize": 10000,
+            "UseMaxArchiveFiles": true,
+            "MaxArchiveFiles": 10,
+            "CompressArchiveFiles": true
+          },
+          "ItemId": "effed60b-caff-42b5-a7f5-ed73e8e049af",
+          "ParentId": "",
+          "DisplayName": ""
+        },
+        "StreamWizardDefinition": {
+          "TopologyHandler": {
+            "StreamTopology": "MESH",
+            "StreamDirection": "BIDIR",
+            "TidAllocationScope": "ConfigScope"
+          },
+          "PortHandler": {
+            "ResetPorts": true,
+            "PortConfigMap": {
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_0_0": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "49c57b28-85a2-4608-8dd5-367db1dccadb",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_0_2": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "7debfd45-6b4f-4bcc-a80f-65a9e7374659",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_0_3": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "3366cbbb-2b74-4ce4-92cb-6b0618770211",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_0_1": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "4c45982e-97d6-40c8-ab0b-cd7815f7f227",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_0_4": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "26300c63-1dd2-4327-aedf-591cc7f03bd8",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_0_5": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "57a93dd3-8cac-4fe2-9450-5e9e9890bad5",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_2_0": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "c3660290-34bb-4c27-95a0-a1f6de79b455",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_2_1": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "89b69247-d9fe-4d28-8214-56c3994ee952",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_2_2": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "2370785c-05e5-4b9a-8296-baf7e1563af0",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_2_3": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "23f5b48b-26a1-4a38-b231-3312a060b4b3",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_2_4": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "cd9f3f70-93c6-4fa2-bd23-c3286f7993f9",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_2_5": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "cf319597-76de-42ed-bcfa-e41e74f1f926",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_4_0": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "16411c37-5ec1-4bb2-a5e3-712bcf7912b7",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_4_2": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "fa631591-b499-4646-84f6-0723b8d921d6",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_4_1": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "a9e90f05-b5ae-4cdd-b1bf-8eab11d7c14e",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_4_3": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "e8d97fd8-2b5a-429f-9509-eac9d1cedef4",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_4_4": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "39d4c15c-fd2e-40bf-9580-a64f46b0ee7b",
+                "ParentId": ""
+              },
+              "P_e418f993-2ddb-425e-a764-0d9e33ef2657_4_5": {
+                "PortGroup": "UNDEFINED",
+                "SavedPropertyValueMap": {},
+                "DisplayName": "Port 0 'Unknown'",
+                "ResourceIndex": 0,
+                "ItemId": "2d0ec3cc-42fe-4a4a-822c-f0cd3b9502e2",
+                "ParentId": ""
+              }
+            },
+            "PortPeerRelations": {
+              "Relations": []
+            },
+            "UsedPortProperties": {
+              "EnabledGroups": [],
+              "EnabledProperties": [
+                "Description",
+                "SpeedSelection"
+              ]
+            }
+          },
+          "StreamHandler": {
+            "RemoveExistingStreams": true,
+            "ArpForGateways": true,
+            "StreamCountPerPort": 1,
+            "StreamConfigMap": {
+              "0": {
+                "SavedPropertyValueMap": {
+                  "PS_ENABLE": "01",
+                  "PS_COMMENT": "53,74,72,65,61,6D",
+                  "PS_PACKETHEADER": "00,00,00,00,00,00,00,00,00,00,00,00,FF,FF",
+                  "PS_HEADERPROTOCOL": "01",
+                  "PS_RATEFRACTION": "00,01,86,A0"
+                },
+                "DisplayName": "Stream 0/0",
+                "ResourceIndex": 0,
+                "ItemId": "c6c13367-534c-42f9-87dd-1094399b73c0",
+                "ParentId": ""
+              }
+            },
+            "UsedStreamProperties": {
+              "EnabledGroups": [],
+              "EnabledProperties": [
+                "Description",
+                "EnableState",
+                "TxRatePcnt"
+              ]
+            }
+          },
+          "ItemId": "1d06887e-8a33-4ad1-9882-20efe0da4361",
+          "ParentId": "",
+          "DisplayName": ""
+        },
+        "ChartingSettings": {
+          "ShowTrackBall": true,
+          "MaxSamples": 100,
+          "ChartDefinitions": []
+        },
+        "ItemId": "fdb75331-e630-4453-a16f-ee2411956af7",
+        "ParentId": "",
+        "DisplayName": "Default testbed"
+      }
+    ]
+  },
+  "FormatVersion": 1,
+  "ApplicationVersion": "1.29 (1.29.5877.37650)",
+  "ItemId": "382bc5ca-bd92-4194-9cbd-dcd24ab4dfa8",
+  "ParentId": "",
+  "DisplayName": ""
+}
