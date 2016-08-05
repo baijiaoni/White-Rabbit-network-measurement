@@ -1,0 +1,58 @@
+Global Port Statistics Counters:
+ID:
+  DisplayName;P-0-0-1;P-0-4-3;P-0-0-0;P-0-4-4;P-0-4-5;P-0-0-2;P-0-0-3;P-0-0-4;P-0-0-5;P-0-2-0;P-0-2-2;P-0-2-1;P-0-2-3;P-0-2-4;P-0-2-5;P-0-4-0;P-0-4-1;P-0-4-2
+Summary:
+  Description;Port number 1;Port number 3;Port number 0;Port number 1;Port number 3;Port number 2;Port number 3;Port number 4;Port number 5;Port number 0;Port number 2;Port number 1;Port number 3;Port number 4;Port number 5;Port number 0;Port number 1;Port number 2
+  PortSpeed;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s;1 Gbit/s
+  PortSyncState;IN SYNC;IN SYNC;IN SYNC;IN SYNC;IN SYNC;IN SYNC;IN SYNC;IN SYNC;IN SYNC;IN SYNC;IN SYNC;IN SYNC;IN SYNC;IN SYNC;IN SYNC;IN SYNC;IN SYNC;IN SYNC
+  FcsStatus;FCS OK;FCS OK;FCS OK;FCS OK;FCS OK;FCS OK;FCS OK;FCS OK;FCS OK;FCS OK;FCS OK;FCS OK;FCS OK;FCS OK;FCS OK;FCS OK;FCS OK;FCS OK
+  FcsErrorCount;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TotalErrorCount;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+TX Totals:
+  TxPercent;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxBpsL1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxBpsL2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxPps;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxBytes;472601910;1165780;4725939350;166540;189156136;0;0;0;47242036;47242036;0;0;47243372;0;0;47244072;47244072;47244454
+  TxPackets;4296381;10598;42963085;1514;239015;0;0;0;59749;59749;0;0;59750;0;0;59751;59751;59752
+RX Totals:
+  RxPercent;0,000227;0,000227;0,000134;0,000135;0,000134;0,000134;0,000134;0,000134;0,000227;0;0,000227;0,000227;0,000227;0,000135;0,000134;0,000227;0,000227;0,000134
+  RxBpsL1;2270;2270;1340;1350;1340;1340;1340;1340;2270;0;2270;2270;2270;1350;1340;2270;2270;1340
+  RxBpsL2;1790;1790;1020;1030;1020;1020;1020;1020;1790;0;1790;1790;1790;1030;1020;1790;1790;1020
+  RxPps;3;3;2;2;2;2;2;2;3;0;3;3;3;2;2;3;3;2
+  RxBytes;72640;72384;71680;71968;72128;72288;72096;71936;72128;0;72064;72096;71520;72128;72160;71840;72576;72032
+  RxPackets;1032;1028;1018;1021;1024;1027;1023;1020;1024;0;1022;1023;1015;1024;1025;1019;1030;1023
+TX (No Test Payload):
+  TxNonPldBpsL2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxNonPldPps;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxNonPldBytes;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxNonPldPackets;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+RX (No Test Payload):
+  RxNonPldBpsL2;1790;1790;1020;1030;1020;1020;1020;1020;1790;0;1790;1790;1790;1030;1020;1790;1790;1020
+  RxNonPldPps;3;3;2;2;2;2;2;2;3;0;3;3;3;2;2;3;3;2
+  RxNonPldBytes;72640;72384;71680;71968;72128;72288;72096;71936;72128;0;72064;72096;71520;72128;72160;71840;72576;72032
+  RxNonPldPackets;1032;1028;1018;1021;1024;1027;1023;1020;1024;0;1022;1023;1015;1024;1025;1019;1030;1023
+TX ARP/NDP/PING:
+  TxArpRequests;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxArpReplies;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxPingRequests;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxPingReplies;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+TX Misc:
+  TxTraining;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxIgmpJoin;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Injected Errors:
+  TxInjectedFcs;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxInjectedSeq;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxInjectedMis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxInjectedIntegErr;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  TxInjectedTidErr;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+RX ARP/NDP/PING:
+  RxArpRequests;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  RxArpReplies;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  RxPingRequests;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  RxPingReplies;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+RX Misc:
+  RxFcsErrors;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  RxPauseFrames;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  RxGapCount;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+  RxGapDuration;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0

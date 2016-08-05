@@ -1493,11 +1493,21 @@
               "PeerPortId": ""
             },
             "f1232de1-d9b3-432d-96b4-37e664f50db8": {
-              "IsUsed": true,
+              "IsUsed": false,
               "Role": "Destination",
               "PeerPortId": ""
             },
             "e422a8bd-8539-45f3-a817-dce53163d914": {
+              "IsUsed": false,
+              "Role": "Destination",
+              "PeerPortId": ""
+            },
+            "981a312b-5ff2-4371-939a-42d51bd0a276": {
+              "IsUsed": true,
+              "Role": "Destination",
+              "PeerPortId": ""
+            },
+            "e815e634-2e9f-4619-9a7b-4cdb416d3f02": {
               "IsUsed": true,
               "Role": "Destination",
               "PeerPortId": ""
@@ -1527,6 +1537,11 @@
               "PeerPortId": ""
             },
             "335103e1-8070-44b5-adc4-f2f358250086": {
+              "IsUsed": false,
+              "Role": "Destination",
+              "PeerPortId": ""
+            },
+            "e815e634-2e9f-4619-9a7b-4cdb416d3f02": {
               "IsUsed": true,
               "Role": "Destination",
               "PeerPortId": ""
@@ -1555,6 +1570,11 @@
               "PeerPortId": ""
             },
             "335103e1-8070-44b5-adc4-f2f358250086": {
+              "IsUsed": false,
+              "Role": "Destination",
+              "PeerPortId": ""
+            },
+            "e815e634-2e9f-4619-9a7b-4cdb416d3f02": {
               "IsUsed": true,
               "Role": "Destination",
               "PeerPortId": ""
@@ -1620,11 +1640,21 @@
               "PeerPortId": ""
             },
             "335103e1-8070-44b5-adc4-f2f358250086": {
-              "IsUsed": true,
+              "IsUsed": false,
               "Role": "LearningPort",
               "PeerPortId": ""
             },
             "f1232de1-d9b3-432d-96b4-37e664f50db8": {
+              "IsUsed": false,
+              "Role": "MonitoringPort",
+              "PeerPortId": ""
+            },
+            "981a312b-5ff2-4371-939a-42d51bd0a276": {
+              "IsUsed": true,
+              "Role": "LearningPort",
+              "PeerPortId": ""
+            },
+            "e815e634-2e9f-4619-9a7b-4cdb416d3f02": {
               "IsUsed": true,
               "Role": "MonitoringPort",
               "PeerPortId": ""
@@ -1675,11 +1705,21 @@
               "PeerPortId": ""
             },
             "335103e1-8070-44b5-adc4-f2f358250086": {
-              "IsUsed": true,
+              "IsUsed": false,
               "Role": "LearningPort",
               "PeerPortId": ""
             },
             "f1232de1-d9b3-432d-96b4-37e664f50db8": {
+              "IsUsed": false,
+              "Role": "MonitoringPort",
+              "PeerPortId": ""
+            },
+            "981a312b-5ff2-4371-939a-42d51bd0a276": {
+              "IsUsed": true,
+              "Role": "LearningPort",
+              "PeerPortId": ""
+            },
+            "e815e634-2e9f-4619-9a7b-4cdb416d3f02": {
               "IsUsed": true,
               "Role": "MonitoringPort",
               "PeerPortId": ""
@@ -1717,6 +1757,11 @@
               "PeerPortId": ""
             },
             "335103e1-8070-44b5-adc4-f2f358250086": {
+              "IsUsed": false,
+              "Role": "Destination",
+              "PeerPortId": ""
+            },
+            "e815e634-2e9f-4619-9a7b-4cdb416d3f02": {
               "IsUsed": true,
               "Role": "Destination",
               "PeerPortId": ""
